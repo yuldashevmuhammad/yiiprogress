@@ -9,6 +9,7 @@ echo "Test controller index fayliga yangi echo yozildi"; ?>
     <input type="text" name="ism"> <br>
     <label for="email">Email</label>
     <input type="email" name="email"><br>
+    <br>
 
     <label for="familiyasi">Familiyasi</label>
     <input type="text" name="fam" id="familiasyi">
